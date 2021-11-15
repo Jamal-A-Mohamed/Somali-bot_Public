@@ -48,5 +48,5 @@ def Create_update_subreddit(subreddit_name):
 
 if  __name__ == "__main__":
     
-    print(Create_update_user(username= 'The_many_butts_of1'))
-    print(Create_update_subreddit(subreddit_name = 'somalia1'))
+    print(Create_update_user(username= ''))
+    print(Create_update_subreddit(subreddit_name = ''))
