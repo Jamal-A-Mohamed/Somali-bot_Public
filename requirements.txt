@@ -3,6 +3,7 @@ chardet==3.0.4
 idna==2.10
 praw==7.1.0
 prawcore==1.4.0
+pyairtable==1.0.0.post1
 regex==2020.6.8
 requests==2.24.0
 six==1.15.0
